@@ -6,7 +6,10 @@
 - Description : A Flutter app that detects a plant's disease given a photo of an affected part of the plant.
 - Youtube Video Link: [click here](https://youtu.be/YlkDWJhiR54)
 - The application was built using Flutter and a tflite model from Teachable Machine Learning by Google. The dataset was from KAGGLE.
-- ![WhatsApp Image 2023-01-22 at 08 51 41](https://user-images.githubusercontent.com/102908142/213900031-76131c4c-fae9-4211-a381-c2abff3dc76f.jpeg)
+
+## Visuals
+<img src="https://user-images.githubusercontent.com/102908142/213900031-76131c4c-fae9-4211-a381-c2abff3dc76f.jpeg" height="500">
+
 
 ## Installation
 A Flutter installation is required to run this project.
