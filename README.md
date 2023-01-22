@@ -1,5 +1,7 @@
 # Netscout-Hackathon-124
 
+# Apk Download link - https://drive.google.com/file/d/1RcuqHLubaNoYvyt9j2iR_wl-fbsfn_sy/view?usp=sharing 
+
 - Project: Leaf Disease Detection App using Flutter.
 - Youtube Video Link: https://2023-tech-for-good-hackathon.devpost.com/register?flow%5Bdata%5D%5Bchallenge_id%5D=16987&flow%5Bname%5D=register_for_challenge
 - The application was built using Flutter and a tflite model from Teachable Machine Learning by Google. The dataset was from KAGGLE.
