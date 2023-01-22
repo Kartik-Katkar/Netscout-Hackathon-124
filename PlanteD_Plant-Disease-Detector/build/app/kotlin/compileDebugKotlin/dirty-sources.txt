@@ -1,0 +1,1 @@
+C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\kotlin\com\suis\plant_disease_detector\plant_disease_detector\MainActivity.kt

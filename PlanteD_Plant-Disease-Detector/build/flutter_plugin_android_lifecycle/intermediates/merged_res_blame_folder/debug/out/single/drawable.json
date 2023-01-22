@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\PRAJWAL\\Desktop\\Plant-Disease-Detector-main\\Plant-Disease-Detector-main\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\PRAJWAL\\.gradle\\caches\\transforms-3\\74150aa7787fa1739da08bf982c69540\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRAJWAL\\Desktop\\Plant-Disease-Detector-main\\Plant-Disease-Detector-main\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\PRAJWAL\\.gradle\\caches\\transforms-3\\74150aa7787fa1739da08bf982c69540\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRAJWAL\\Desktop\\Plant-Disease-Detector-main\\Plant-Disease-Detector-main\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\PRAJWAL\\.gradle\\caches\\transforms-3\\74150aa7787fa1739da08bf982c69540\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\PRAJWAL\\Desktop\\Plant-Disease-Detector-main\\Plant-Disease-Detector-main\\build\\flutter_plugin_android_lifecycle\\intermediates\\merged_res\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\PRAJWAL\\.gradle\\caches\\transforms-3\\74150aa7787fa1739da08bf982c69540\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    }
+]

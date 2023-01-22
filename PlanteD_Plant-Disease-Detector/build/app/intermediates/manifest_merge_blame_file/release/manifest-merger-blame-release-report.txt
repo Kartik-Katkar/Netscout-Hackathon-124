@@ -1,0 +1,110 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.suis.plant_disease_detector.plant_disease_detector"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:3:5-80
+11-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:3:22-77
+12
+13    <application
+14        android:name="android.app.Application"
+14-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:6:9-42
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.8.0] C:\Users\PRAJWAL\.gradle\caches\transforms-3\34d8ff5e92fa6091883a929ea1d934c0\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:7:9-43
+17        android:label="Plant Disease Detector" >
+17-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:5:9-47
+18        <activity
+18-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:8:9-28:20
+19            android:name="com.suis.plant_disease_detector.plant_disease_detector.MainActivity"
+19-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:9:13-41
+20            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+20-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:13:13-163
+21            android:exported="true"
+21-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:10:13-36
+22            android:hardwareAccelerated="true"
+22-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:14:13-47
+23            android:launchMode="singleTop"
+23-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:11:13-43
+24            android:theme="@style/LaunchTheme"
+24-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:12:13-47
+25            android:windowSoftInputMode="adjustResize" >
+25-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:15:13-55
+26
+27            <!--
+28                 Specifies an Android theme to apply to this Activity as soon as
+29                 the Android process has started. This theme is visible to the user
+30                 while the Flutter UI initializes. After that, this theme continues
+31                 to determine the Window background behind the Flutter UI.
+32            -->
+33            <meta-data
+33-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:20:13-23:17
+34                android:name="io.flutter.embedding.android.NormalTheme"
+34-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:21:15-70
+35                android:resource="@style/NormalTheme" />
+35-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:22:15-52
+36
+37            <intent-filter>
+37-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:24:13-27:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:25:17-68
+38-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:25:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:26:17-76
+40-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:26:27-74
+41            </intent-filter>
+42        </activity>
+43        <!--
+44             Don't delete the meta-data below.
+45             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+46        -->
+47        <meta-data
+47-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:31:9-33:33
+48            android:name="flutterEmbedding"
+48-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:32:13-44
+49            android:value="2" />
+49-->C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\android\app\src\main\AndroidManifest.xml:33:13-30
+50
+51        <provider
+51-->[:image_picker_android] C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:8:9-16:20
+52            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
+52-->[:image_picker_android] C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:13-82
+53            android:authorities="com.suis.plant_disease_detector.plant_disease_detector.flutter.image_provider"
+53-->[:image_picker_android] C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:13-74
+54            android:exported="false"
+54-->[:image_picker_android] C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-37
+55            android:grantUriPermissions="true" >
+55-->[:image_picker_android] C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-47
+56            <meta-data
+56-->[:image_picker_android] C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-15:75
+57                android:name="android.support.FILE_PROVIDER_PATHS"
+57-->[:image_picker_android] C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:14:17-67
+58                android:resource="@xml/flutter_image_picker_file_paths" />
+58-->[:image_picker_android] C:\Users\PRAJWAL\Desktop\Plant-Disease-Detector-main\Plant-Disease-Detector-main\build\image_picker_android\intermediates\merged_manifest\release\AndroidManifest.xml:15:17-72
+59        </provider>
+60
+61        <uses-library
+61-->[androidx.window:window:1.0.0-beta04] C:\Users\PRAJWAL\.gradle\caches\transforms-3\2708ce76cf90d18f83ed0dfcfc333191\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+62            android:name="androidx.window.extensions"
+62-->[androidx.window:window:1.0.0-beta04] C:\Users\PRAJWAL\.gradle\caches\transforms-3\2708ce76cf90d18f83ed0dfcfc333191\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+63            android:required="false" />
+63-->[androidx.window:window:1.0.0-beta04] C:\Users\PRAJWAL\.gradle\caches\transforms-3\2708ce76cf90d18f83ed0dfcfc333191\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+64        <uses-library
+64-->[androidx.window:window:1.0.0-beta04] C:\Users\PRAJWAL\.gradle\caches\transforms-3\2708ce76cf90d18f83ed0dfcfc333191\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+65            android:name="androidx.window.sidecar"
+65-->[androidx.window:window:1.0.0-beta04] C:\Users\PRAJWAL\.gradle\caches\transforms-3\2708ce76cf90d18f83ed0dfcfc333191\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+66            android:required="false" />
+66-->[androidx.window:window:1.0.0-beta04] C:\Users\PRAJWAL\.gradle\caches\transforms-3\2708ce76cf90d18f83ed0dfcfc333191\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+67    </application>
+68
+69</manifest>
